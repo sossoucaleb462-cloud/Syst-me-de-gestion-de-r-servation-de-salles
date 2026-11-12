@@ -29,7 +29,6 @@ Pour répondre aux exigences d'encapsulation, de collections d'objets et de gest
 
 ![Diagramme de cas d'utilisation](images/utilisation.png)
 
-> *Note : Placez l'image de votre diagramme de cas d'utilisation dans le dossier `images/` sous le nom `diagramme_cas_utilisation.png` (ou mettez à jour le chemin ci-dessus).*
 
 ---
 
@@ -42,7 +41,6 @@ Pour répondre aux exigences d'encapsulation, de collections d'objets et de gest
 
 ![Diagramme de classes UML](images/classes.png)
 
-> *Note : Placez l'image de votre diagramme de classes dans le dossier `images/` sous le nom `diagramme_classes.png`.*
 
 ---
 
@@ -52,7 +50,6 @@ Ce diagramme illustre le processus de réservation d'une salle, incluant la vér
 
 ![Diagramme de séquence](images/séquence.png)
 
-> *Note : Placez l'image de votre diagramme de séquence dans le dossier `images/` sous le nom `diagramme_sequence.png`.*
 
 ---
 
@@ -70,4 +67,4 @@ Pour compiler et exécuter ce programme avec `g++` (norme C++11 ou supérieure) 
 g++ -std=c++17 main.cpp -o gestion_salles
 ./gestion_salles
 ```
-### SOSSOU Caleb
+#### SOSSOU Caleb
