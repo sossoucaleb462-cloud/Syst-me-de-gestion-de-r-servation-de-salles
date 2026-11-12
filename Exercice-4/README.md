@@ -27,7 +27,7 @@ Pour répondre aux exigences d'encapsulation, de collections d'objets et de gest
 
 **Acteur principal :** Enseignant.
 
-![Diagramme de cas d'utilisation](\images\utilisation.png)
+![Diagramme de cas d'utilisation](images\utilisation.png)
 
 > *Note : Placez l'image de votre diagramme de cas d'utilisation dans le dossier `images/` sous le nom `diagramme_cas_utilisation.png` (ou mettez à jour le chemin ci-dessus).*
 
@@ -40,7 +40,7 @@ Pour répondre aux exigences d'encapsulation, de collections d'objets et de gest
 * Une `Salle` est concernée par `0..*` `Reservation`. Une `Reservation` porte sur `1` seule `Salle`.
 * `GestionReservations` agrège les collections de salles, d'enseignants et de réservations (`0..*`).
 
-![Diagramme de classes UML](\images\classes.png)
+![Diagramme de classes UML](images\classes.png)
 
 > *Note : Placez l'image de votre diagramme de classes dans le dossier `images/` sous le nom `diagramme_classes.png`.*
 
