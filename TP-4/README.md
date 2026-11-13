@@ -23,16 +23,11 @@ GestionDepartement/
 │   └── SystemeGestion.h
 ├── src/                      # Fichiers sources (.cpp)
 │   └── main.cpp
-└── data/                     # Fichiers CSV de persistance
-    ├── etudiants.csv
-    ├── enseignants.csv
-    ├── salles.csv
-    └── notes.csv
 ```
 
 ## 3. Modélisation UML
 
-> **Note :** Exportez les scripts PlantUML ci-dessous au format PNG dans le dossier `docs/images/` pour afficher les rendus visuels directement dans ce fichier.
+> **Note :** Exportez les scripts PlantUML ci-dessous au format PNG dans le dossier `images/` pour afficher les rendus visuels directement dans ce fichier.
 
 ### A. Diagramme Global de Cas d'Utilisation
 ![Diagramme de cas d'utilisation](images\cas-utilisation.png)
